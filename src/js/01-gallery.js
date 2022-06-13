@@ -4,7 +4,8 @@ import { galleryItems } from './gallery-items';
 import SimpleLightbox from "simplelightbox";
 import "simplelightbox/dist/simple-lightbox.min.css";
 
-// console.log(galleryItems);
+console.log(galleryItems);
+
 const galleryImages = document.querySelector('.gallery');
 const imageEl = galleryItems.map(({preview, original, description}) => {
     return `<a class="gallery__item" href='${original}'>
