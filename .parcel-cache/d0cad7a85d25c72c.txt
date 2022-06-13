@@ -81,7 +81,7 @@
 55D:\GitHub\goit-js-hw-08\node_modules\.package-lock.json132996002277777147 0
 54D:\GitHub\goit-js-hw-08\node_modules\readdirp\index.js132995988387619274 0
 68D:\GitHub\goit-js-hw-08\node_modules\cosmiconfig\dist\loaders.js.map132995988380013725 0
-28D:\GitHub\goit-js-hw-08\dist132996196245325931 1
+28D:\GitHub\goit-js-hw-08\dist132996216580329113 1
 99D:\GitHub\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV4\files\embed132995988386721669 1
 88D:\GitHub\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.1132995988384651324 0
 88D:\GitHub\goit-js-hw-08\node_modules\@swc\helpers\lib\_class_extract_field_descriptor.js132995988372115831 0
@@ -92,7 +92,7 @@
 71D:\GitHub\goit-js-hw-08\node_modules\electron-to-chromium\versions.json132995988382128066 0
 67D:\GitHub\goit-js-hw-08\node_modules\type-fest\source\value-of.d.ts132995988391961442 0
 60D:\GitHub\goit-js-hw-08\node_modules\terser\lib\sourcemap.js132995988391522616 0
-44D:\GitHub\goit-js-hw-08\src\js\01-gallery.js132996196243136290 0
+44D:\GitHub\goit-js-hw-08\src\js\01-gallery.js132996216576510307 0
 76D:\GitHub\goit-js-hw-08\node_modules\htmlparser2\lib\WritableStream.d.ts.map132995988383534308 0
 49D:\GitHub\goit-js-hw-08\node_modules\yaml\util.js132995988392599737 0
 68D:\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\regions\PS.js132995988379114873 0
@@ -551,7 +551,7 @@
 79D:\GitHub\goit-js-hw-08\node_modules\@parcel\core\lib\serializerCore.browser.js132995988352105486 0
 78D:\GitHub\goit-js-hw-08\node_modules\entities\lib\generated\decode-data-xml.js132995988382237772 0
 66D:\GitHub\goit-js-hw-08\node_modules\posthtml-render\dist\index.js132995988387340006 0
-51D:\GitHub\goit-js-hw-08\dist\01-gallery.53390864.js132996196245120577 0
+51D:\GitHub\goit-js-hw-08\dist\01-gallery.53390864.js132996216580289590 0
 50D:\GitHub\goit-js-hw-08\node_modules\parent-module132995988386871266 1
 47D:\GitHub\goit-js-hw-08\node_modules\source-map132995988390476155 1
 85D:\GitHub\goit-js-hw-08\node_modules\@parcel\runtime-js\src\helpers\node\js-loader.js132995988357052085 0
@@ -3430,7 +3430,7 @@
 91D:\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-indeterminate-pseudo.js132995988374603550 0
 84D:\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-initial-value.js132995988374613531 0
 78D:\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-lch-lab.js132995988374623498 0
-55D:\GitHub\goit-js-hw-08\dist\01-gallery.53390864.js.map132996196245276794 0
+55D:\GitHub\goit-js-hw-08\dist\01-gallery.53390864.js.map132996216580319146 0
 85D:\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-letter-spacing.js132995988374623498 0
 81D:\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-line-clamp.js132995988374633472 0
 84D:\GitHub\goit-js-hw-08\node_modules\caniuse-lite\data\features\css-logical-props.js132995988374643447 0
