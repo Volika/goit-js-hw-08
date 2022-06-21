@@ -7,7 +7,7 @@ const player = new Vimeo.Player(iframe);
 
 const currentItemTime = JSON.parse(localStorage.getItem(STORAGE_KEY));
 
-console.log(currentItemTime);
+// console.log(currentItemTime);
 
 player.on('timeupdate', throttle(onPlayCurrentTime, 1000));
 
