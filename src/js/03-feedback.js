@@ -7,7 +7,10 @@ const form = document.querySelector('.feedback-form');
 form.addEventListener('input', throttle(onFormInput, 500));
 form.addEventListener('submit', onFormSubmit);
 
-let formInput = {};
+let formInput = {
+    "email": '',
+    "message": '',
+};
 
 currentFormData();
 
