@@ -8,8 +8,8 @@ form.addEventListener('input', throttle(onFormInput, 500));
 form.addEventListener('submit', onFormSubmit);
 
 let formInput = {
-    // "email": '',
-    // "message": '',
+    "email": '',
+    "message": '',
 };
 
 currentFormData();
@@ -36,12 +36,15 @@ function currentFormData() {
     const email = document.querySelector('.feedback-form input');
     const message = document.querySelector('.feedback-form textarea');
     
-    if ("email" in formInputCurrent) {
+    if (formInputCurrent) {
+         if (formInputCurrent.hasOwnProperty('email')) {
         email.value = formInputCurrent.email;
     }
-   if ("message" in formInputCurrent) {
+   if ('message' in formInputCurrent) {
         message.value = formInputCurrent.message;
     }
+    }
+   
 
     // email.value =  ? formInputCurrent.email : '';
     // message.value = formInputCurrent.message ? formInputCurrent.message : '';
